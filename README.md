@@ -1,2 +1,3 @@
 # plotly-waveform-example
-Create waveform using plotly's streaming API
+Create waveforms using plotly's streaming API
+Use your API authentication key and streaming tokens.
